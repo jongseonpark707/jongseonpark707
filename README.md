@@ -5,15 +5,15 @@
 
 [Website](https://jongsun968-maker.github.io/) · [Research](https://jongsun968-maker.github.io/#research) · [Publications](https://jongsun968-maker.github.io/#publications) · [Email](mailto:jongseon96@hanyang.ac.kr)
 
-I study how robots can learn to move and interact with physical environments through **sensing, learning, and simulation**. My current research spans **humanoid locomotion**, **magnetic microrobot swarms**, and **LiDAR-based 3D perception**.
+I study how robots can learn to move and interact with physical environments through **sensing, learning, and simulation**. My current research spans **humanoid robotics**, **microrobotics**, and **LiDAR-based 3D perception**.
 
 <br>
 
 ## Research Interests
 
-- **Robot Learning & Control** — tactile sensing and plantar-pressure supervision for humanoid locomotion; navigation and control of magnetic microrobot swarms.
-- **Physics-Based Simulation** — modeling contact, magnetic actuation, fluid interactions, and collective dynamics.
-- **LiDAR-Based 3D Perception** — point-cloud segmentation for power-line and vegetation analysis, with applications in clearance assessment.
+- **Robot Learning & Control** — humanoid robotics and microrobotics.
+- **Physics-Based Simulation** — modeling and simulation of robotic systems.
+- **LiDAR-Based 3D Perception** — 3D perception and point-cloud understanding.
 
 <br>
 
@@ -23,7 +23,7 @@ I study how robots can learn to move and interact with physical environments thr
 | :--- | :--- |
 | 2025 – Present | **Hanyang University · IMC Lab**<br>Integrated M.S./Ph.D. in Artificial Intelligence |
 | Sep 2022 – Jun 2025 | **SAFETICS**<br>UI/UX planning for robot-safety simulation software |
-| Mar 2019 – Jun 2022 | **707th Special Mission Group (Counter-Terrorism Unit)**<br>ROK Army Special Warfare Command · Company Executive Officer |
+| Mar 2019 – Jun 2022 | **707th Special Mission Group**<br>ROK Army Special Warfare Command · Company Executive Officer |
 
 **Undergraduate studies**  
 B.S. in Industrial & Management Engineering · Hankuk University of Foreign Studies, 2019
