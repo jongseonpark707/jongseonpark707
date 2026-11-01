@@ -40,5 +40,5 @@ UbiComp/ISWC 2026 · Poster P102 · [Conference program](https://ubicomp.org/ubi
 
 ## Selected Award
 
-**Grand Prize (Best Paper Award) · Korean Data Mining Society, 2025**  
+**Grand Prize (Best Paper Award) · Korea Data Mining Society (KDMS, 한국데이터마이닝학회), 2025**  
 Poster on fraudulent SRT ticket-booking detection.
