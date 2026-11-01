@@ -23,7 +23,7 @@ I study how robots can learn to move and interact with physical environments thr
 | :--- | :--- |
 | 2025 – Present | **Hanyang University · IMC Lab**<br>Integrated M.S./Ph.D. in Artificial Intelligence |
 | Sep 2022 – Jun 2025 | **SAFETICS**<br>UI/UX planning for robot-safety simulation software |
-| Mar 2019 – Jun 2022 | **ROK Army Special Warfare Command**<br>Company Executive Officer |
+| Mar 2019 – Jun 2022 | **707th Special Mission Group (Counter-Terrorism Unit)**<br>ROK Army Special Warfare Command · Company Executive Officer |
 
 **Undergraduate studies**  
 B.S. in Industrial & Management Engineering · Hankuk University of Foreign Studies, 2019
