@@ -3,7 +3,7 @@
 **Integrated M.S./Ph.D. Student · Hanyang University**  
 [Intelligent Mobile Computing Lab (IMC Lab)](https://imc.hanyang.ac.kr/) · Department of Artificial Intelligence
 
-[Website](https://jongsun968-maker.github.io/) · [Research](https://jongsun968-maker.github.io/#research) · [Publications](https://jongsun968-maker.github.io/#publications) · [Email](mailto:jongseon96@hanyang.ac.kr)
+[Website](https://jongseonpark707.github.io/) · [Research](https://jongseonpark707.github.io/#research) · [Publications](https://jongseonpark707.github.io/#publications) · [Email](mailto:jongseon96@hanyang.ac.kr)
 
 I study how robots can learn to move and interact with physical environments through **sensing, learning, and simulation**. My current research spans **humanoid robotics**, **microrobotics**, and **LiDAR-based 3D perception**.
 
